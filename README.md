@@ -1,7 +1,9 @@
 # Weather-Journal App Project
 
 ## Overview
-In this project I practiced creating an asynchronous web app that uses Web API and user data to dynamically update the UI, I acquired this knowledge from Udacity Web Development Professional Track.
+In this project I practiced creating an asynchronous web app that uses Web API and user data to dynamically update the UI, I acquired this knowledge from Udacity's Web Development Professional Nanodegree.
+![Screenshot (55)](https://user-images.githubusercontent.com/93945902/226071495-c659e385-c0f5-4d4d-9d59-b2be8246d5a6.png)
+
 
 ## Steps
 
